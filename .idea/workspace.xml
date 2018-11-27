@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a125028-8c43-4f09-885c-c7fc3bec1700" name="Default" comment="创建了一个search_app">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/one.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search_app/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search_app/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search_app/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search_app/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search_app/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search_app/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search_app/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,6 +41,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -127,7 +120,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="H:/django/ev/Scripts/python.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -347,6 +340,14 @@
       <option name="presentableId" value="Default" />
       <updated>1543300882939</updated>
     </task>
+    <task id="LOCAL-00001" summary="创建了一个search_app">
+      <created>1543302328070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543302328070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -378,6 +379,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建了一个search_app" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建了一个search_app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
